@@ -5,8 +5,6 @@
 - 💬 Ask me about Javascript, ReactJS & NextJS
 - 📫 How to reach me: [surajidk12@gmail.com](mailto:surajidk12@gmail.com)
 
-[![Suraji GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajidk16&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ajidk16/github-readme-stats#gh-dark-mode-only)
-[![Suraji GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ajidk16&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ajidk16/github-readme-stats#gh-light-mode-only)
 <!--
 **ajidk16/ajidk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
