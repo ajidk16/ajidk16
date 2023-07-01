@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋, I'm Suraji
+### A passionate frontend developer from Lampung, Indonesia
 
 - 👯 🌱 I’m currently learning UI & UX Design Figma
 - 💬 Ask me about Javascript, ReactJS & NextJS
